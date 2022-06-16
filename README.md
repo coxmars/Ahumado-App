@@ -31,11 +31,9 @@ The Ahumado App is a program made in Java with Swing, developed in Netbeans that
 ## Features
 - The login correctly validates the data so that the user can log in.
 - The registration form works correctly, accounts/profiles can be created without problems.
-- Internationalization works efficiently, you can switch between Spanish and English, of course more languages can be implemented later.
 - All data is saved persistently through a database in this case MySQL.
-- Good UI/UX practices were used for the development of the graphical user interface, using Bootstrap 5.0 and CSS3.
-- The blog part serves correctly to keep abreast of technological trends.
-- The contact form processes the request and sends the data to an email.
+- Good UI/UX practices were used for the development of the graphical user interface using a specific layout that is included in directories.
+- The links to social media work so good.
 
 
 ## Screenshots
@@ -61,18 +59,16 @@ It's simple is just a desktop app with its functionalities
 
 
 ## Project Status
-Project is: In Progress, the app is almost finished but the main functionality of learning programming lenguajes is not completed/working and maybe a profile user should be added in the near future too.
+Project is: Completed, the app is finished but some changes can be aplied to improve several functionalities.
 
 
 ## Room for Improvement
 
 Room for improvement:
-- The code for the blog handlers could be a lot better, it's inefficient due to the few minutes it took to add it, with time it can be a lot better.
-- In the login and registration alerts should appear to correctly guide the user.
+- The payment section can be improved in a good way, maybe deleting the crypto payment and just having the credit cards to have better order.
 
 To do:
-- Implement the main functionality of learning programming languages.
-- Improve the blog section.
+- Nothing for the correct functionality of the app, but as I said maybe some changes to improve the UI/UX in payment section etc.
 
 
 ## Contact
