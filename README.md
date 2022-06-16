@@ -66,6 +66,7 @@ Project is: Completed, the app is finished but some changes can be aplied to imp
 
 Room for improvement:
 - The payment section can be improved in a good way, maybe deleting the crypto payment and just having the credit cards to have better order.
+- The database use can be improved a lot, MySQL was used to storage user information, but some tables to order, invoice etc can be created to storage those things.
 
 To do:
 - Nothing for the correct functionality of the app, but as I said maybe some changes to improve the UI/UX in payment section etc.
